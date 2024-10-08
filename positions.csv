@@ -1,7 +1,7 @@
 section,in_resume,title,institution,loc,start,end,description_1,description_2,description_3
 education,TRUE,"M.S., Program Evaluation, Data Analytics",Arizona State University,"Tempe, Arizona",2024,2024,Pursuing Masters,NA,NA
 education,TRUE,"B.S., Communication (Business Minor)",Arizona State University,"Tempe, Arizona",2017,2018,Graduation Summa Cum Laude,NA,NA
-achievements,FALSE,,,,,,,,
+achievements,FALSE,NA,NA,NA,NA,NA,NA,NA,NA
 awards,TRUE,President's Volunteer Service Award,USA,NA,2015,NA,"For having completed over 4,000 hours of volunteer service throughout my lifetime",,
 scholarships,TRUE,All-Arizona Academic 1st Team,Arizona Board of Regents,NA,2016,NA,A rigorous application process determined me as one of the top 2 students at Mesa Community College,"Students were selected based on their academic, civic, and communty engagement",
 recognition,TRUE,Newman Civic Fellow,Campus Compact,NA,2016,NA,Appointed by leadership at Mesa Community College to be apart of the Campus Compact 2016 Newman Civic Fellowship,,
