@@ -66,13 +66,9 @@ Language Skills {#skills}
 ```{r}
 skills <- tribble(
   ~skill,               ~level,
-  "R",                  5,
-  "Javascript (d3.js)", 4.5,
-  "Python",             4,
-  "Bash",               3.5,
-  "SQL",                3,
-  "C++",                3,
-  "AWK",                3
+  "R",                  3,
+  "SQL",                1,
+ 
 )
 build_skill_bars(skills)
 ```
@@ -93,7 +89,7 @@ All projects available at `github.com/swest235/<name>`
 More info {#more-info}
 --------------------------------------------------------------------------------
 
-See full CV at atsomepointitllbeuphere.me/cv for more complete list of positions and publications.
+See full CV at pending.me/cv for more complete list of positions and publications.
 
 
 Disclaimer {#disclaimer}
@@ -115,9 +111,9 @@ Sean West {#title}
 --------------------------------------------------------------------------------
 
 ```{r}
-intro_text <- "I have made this with 98% assistance from someone else's work.
+intro_text <- "Running late, need this in.
 
-Currently surviving. 
+Information is not real personal history.. 
 "
 
 
