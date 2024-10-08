@@ -36,6 +36,7 @@ position_data <- read_csv('positions.csv') %>%
     section = case_when(
       section %in% c('research_positions', 'industry_positions') ~ 'positions', 
       section %in% c('data_science_writings', 'by_me_press') ~ 'writings',
+      section %in% c('achievements', 'awards', 'scholarships', 'recognition') ~'achievements',
       TRUE ~ section
     )
   ) 
@@ -138,12 +139,12 @@ Selected Positions {data-icon=suitcase}
 position_data %>% print_section('positions')
 ```
 
-Selected Writing {data-icon=newspaper}
+Selected Awards & Achievements {data-icon=newspaper}
 --------------------------------------------------------------------------------
 
 
 ```{r}
-position_data %>% print_section('writings')
+position_data %>% print_section('achievements')
 ```
 
 
